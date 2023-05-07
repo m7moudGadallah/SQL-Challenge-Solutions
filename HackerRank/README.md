@@ -17,3 +17,4 @@ Here is a table of the challenges in this folder along with links to the problem
 |[Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true)|[Link](./solutions/weather_observation_station_3.sql)|`SELECT` `Filtering (WHERE)`|
 |[Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true)|[Link](./solutions/weather_observation_station_4.sql)|`SELECT` `Aggregate Functions (COUNT)`|
 |[Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true)|[Link](./solutions/weather_observation_station_5.sql)|`SELECT` `Aggregate Functions (COUNT)` `Sorting (ORDER BY)`|
+|[Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true)|[Link](./solutions/weather_observation_station_6.sql)|`SELECT` `Filtering (WHERE, LIKE)`|
