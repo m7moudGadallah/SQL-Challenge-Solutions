@@ -18,14 +18,16 @@ The repository is organized into separate folders for each platform, with each c
 SQL-Challenge-Solutions/
 ├── LeetCode/
 |   ├── README.md
-│   ├── Challenge1.sql
-│   ├── Challenge2.sql
-│   └── ...
+│   ├── solutions/
+|       ├──Challenge1.sql
+│       ├── Challenge2.sql
+│       └── ...
 ├── HackerRank/
 |   ├── README.md
-│   ├── Challenge1.sql
-│   ├── Challenge2.sql
-│   └── ...
+│   ├── solutions/
+|       ├──Challenge1.sql
+│       ├── Challenge2.sql
+│       └── ...
 └── README.md
 ```
 
