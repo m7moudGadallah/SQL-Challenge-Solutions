@@ -26,3 +26,4 @@ Here is a table of the challenges in this folder along with links to the problem
 |[Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true)|[Link](./solutions/weather_observation_station_12.sql)|`SELECT` `Filtering (WHERE, LIKE)`|
 |[Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true)|[Link](./solutions/higher_than_75_marks.sql)|`SELECT` `Filtering (WHERE)` `Sorting (ORDER BY)`|
 |[Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true)|[Link](./solutions/employee_names.sql)|`SELECT` `Sorting (ORDER BY)`|
+|[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true)|[Link](./solutions/employee_salaries.sql)|`SELECT` `Filtering (WHERE)` `Sorting (ORDER BY)`|
