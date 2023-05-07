@@ -15,3 +15,4 @@ Here is a table of the challenges in this folder along with links to the problem
 |[Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true)|[Link](./solutions/japanese_cities_names.sql)|`SELECT` `Filtering (WHERE)`|
 |[Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true)|[Link](./solutions/weather_observation_station_1.sql)|`SELECT`|
 |[Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true)|[Link](./solutions/weather_observation_station_3.sql)|`SELECT` `Filtering (WHERE)`|
+|[Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true)|[Link](./solutions/weather_observation_station_4.sql)|`SELECT` `Aggregate Functions (COUNT)`|
