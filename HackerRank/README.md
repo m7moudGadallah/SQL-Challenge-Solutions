@@ -9,3 +9,4 @@ Here is a table of the challenges in this folder along with links to the problem
 |-------|--------|-----|
 |[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query?isFullScreen=true)|[Link](./solutions/revising_the_select_query_1.sql)|`SELECT` `Filtering (WHERE)`|
 |[Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2?isFullScreen=true)|[Link](./solutions/revising_the_select_query_2.sql)|`SELECT` `Filtering (WHERE)`|
+|[Select All](https://www.hackerrank.com/challenges/select-all-sql?isFullScreen=true)|[Link](./solutions/select_all.sql)|`SELECT`|
