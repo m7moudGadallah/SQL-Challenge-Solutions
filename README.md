@@ -50,3 +50,5 @@ If you would like to contribute to this repository by adding your own solution t
 ## Acknowledgments
 
 Thank you to LeetCode, HackerRank, and other platforms for providing these SQL challenges.
+
+**[&uarr;Top](#sql-challenge-solutions)**
