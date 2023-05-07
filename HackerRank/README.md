@@ -27,3 +27,5 @@ Here is a table of the challenges in this folder along with links to the problem
 |[Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true)|[Link](./solutions/higher_than_75_marks.sql)|`SELECT` `Filtering (WHERE)` `Sorting (ORDER BY)`|
 |[Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true)|[Link](./solutions/employee_names.sql)|`SELECT` `Sorting (ORDER BY)`|
 |[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true)|[Link](./solutions/employee_salaries.sql)|`SELECT` `Filtering (WHERE)` `Sorting (ORDER BY)`|
+
+**[&uarr;Top](#hackerrank-sql-challenge-solutions)**
