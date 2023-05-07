@@ -13,5 +13,6 @@ Here is a table of the challenges in this folder along with links to the problem
 |[1148. Article Views I](https://leetcode.com/problems/article-views-i/?envType=study-plan-v2&id=top-sql-50)|[Link](./solutions/1148-article_views_1.sql)|`SELECT` `Filtering (WHERE)` `Sorting (ORDER BY)`|
 |[1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/?envType=study-plan-v2&id=top-sql-50)|[Link](./solutions/1683-invalid_tweets.sql)|`SELECT` `Filtering (WHERE)`|
 |[1378. Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&id=top-sql-50)|[Link](./solutions/1378-replace_employee_id_with_the_unique_identifier.sql)|`SELECT` `JOINs (RIGHT JOIN)`|
+|[1068. Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/description/?envType=study-plan-v2&id=top-sql-50)|[Link](./solutions/1068-product_sales_analysis_1.sql)|`SELECT` `JOINs (RIGHT JOIN)`|
 
 **[&uarr;Top](#leetcode-sql-challenge-solutions)**
