@@ -1,6 +1,6 @@
 # LeetCode SQL Challenge Solutions
 
-This folder contains solutions to SQL challenges from LeetCode.
+This folder contains solutions to SQL challenges from LeetCode using `MS SQL Server`.
 
 ## Challenges
 

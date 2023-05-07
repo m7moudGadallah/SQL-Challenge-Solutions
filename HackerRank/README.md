@@ -1,6 +1,6 @@
 # HackerRank SQL Challenge Solutions
 
-This folder contains solutions to SQL challenges from HackerRank.
+This folder contains solutions to SQL challenges from HackerRank using `MS SQL Server`.
 
 ## Challenges
 
