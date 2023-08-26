@@ -16,5 +16,6 @@ Here is a table of the challenges in this folder along with links to the problem
 |[1068. Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/description/?envType=study-plan-v2&id=top-sql-50)|[Link](./solutions/1068-product_sales_analysis_1.sql)|`SELECT` `JOINs (RIGHT JOIN)`|
 |[1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/?envType=study-plan-v2&id=top-sql-50)|[Link](./solutions/1581-customer_who_visited_but_did_not_make_any_transactions.sql)|`SELECT` `JOINs (LEFT JOIN)` `Filtering (WHERE)` `GROUP BY(COUNT)`|
 |[175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[Link](./solutions/175-Combine-Two-Tables.sql)|`SELECT` `JOINS (LEFT JOIN)`|
+|[181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[Link](./solutions/181-Employees-Earning-More-Than-Their-Managers.sql)|`SELECT` `JOINS (INNER JOIN)` `FILTERING (WHERE)`|
 
 **[&uarr;Top](#leetcode-sql-challenge-solutions)**
