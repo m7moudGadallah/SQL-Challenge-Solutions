@@ -18,5 +18,6 @@ Here is a table of the challenges in this folder along with links to the problem
 |[175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[Link](./solutions/175-Combine-Two-Tables.sql)|`SELECT` `JOINS (LEFT JOIN)`|
 |[181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[Link](./solutions/181-Employees-Earning-More-Than-Their-Managers.sql)|`SELECT` `JOINS (INNER JOIN)` `FILTERING (WHERE)`|
 |[182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Link](./solutions/182-Duplicate-Emails.sql)|`SELECT` `FILTERING (WHERE)` `GROUP BY`|
+|[183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[Link]('./solutions/183-Customers-Who-Never-Order.sql)|`SELECT` `JOINS (LEFT JOIN)` `FILTERING (WHERE)`|
 
 **[&uarr;Top](#leetcode-sql-challenge-solutions)**
