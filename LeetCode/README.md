@@ -21,5 +21,6 @@ Here is a table of the challenges in this folder along with links to the problem
 |[183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[Link](./solutions/183-Customers-Who-Never-Order.sql)|`SELECT` `JOINS (LEFT JOIN)` `FILTERING (WHERE)`|
 |[196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[Link](./solutions/196-Delete-Duplicate-Emails.sql)|`DELETE` `JOIN (SELF JOIN) FILTERING (WHERE)`|
 |[197. Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[Link](./solutions/197-Rising-Temperature.sql)|`SELECT` `CTE` `WINDOW FUNCTION (LAG)` `FILTERING (WHERE)`|
+|[577. Employee Bonus](https://leetcode.com/problems/employee-bonus/)|[Link](./solutions/577-Employee-Bonus.sql)|`SELECT` `JOINS (LEFT JOIN)` `FILTERING (WHERE)`|
 
 **[&uarr;Top](#leetcode-sql-challenge-solutions)**
