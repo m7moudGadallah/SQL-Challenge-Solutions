@@ -23,5 +23,6 @@ Here is a table of the challenges in this folder along with links to the problem
 |[197. Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[Link](./solutions/197-Rising-Temperature.sql)|`SELECT` `CTE` `WINDOW FUNCTION (LAG)` `FILTERING (WHERE)`|
 |[577. Employee Bonus](https://leetcode.com/problems/employee-bonus/)|[Link](./solutions/577-Employee-Bonus.sql)|`SELECT` `JOINS (LEFT JOIN)` `FILTERING (WHERE)`|
 |[586. Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)|[Link](./solutions/586-Customer-Placing-the-Largest-Number-of-Orders.sql)|`SELECT` `GROUP BY`  `Sorting (ORDER BY)`|
+|[596. Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[Link](./solutions/596-Classes-More-Than-5-Students.sql)|`SELECT` `GROUP BY`|
 
 **[&uarr;Top](#leetcode-sql-challenge-solutions)**
