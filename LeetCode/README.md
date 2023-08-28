@@ -24,5 +24,6 @@ Here is a table of the challenges in this folder along with links to the problem
 |[577. Employee Bonus](https://leetcode.com/problems/employee-bonus/)|[Link](./solutions/577-Employee-Bonus.sql)|`SELECT` `JOINS (LEFT JOIN)` `FILTERING (WHERE)`|
 |[586. Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)|[Link](./solutions/586-Customer-Placing-the-Largest-Number-of-Orders.sql)|`SELECT` `GROUP BY`  `Sorting (ORDER BY)`|
 |[596. Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[Link](./solutions/596-Classes-More-Than-5-Students.sql)|`SELECT` `GROUP BY`|
+|[607. Sales Person](https://leetcode.com/problems/sales-person/)|[Link](./solutions/607-Sales-Person.sql)|`SELECT` `JOINS (INNER)` `SUBQUERY` `FILTERING (WHERE)`|
 
 **[&uarr;Top](#leetcode-sql-challenge-solutions)**
